@@ -1,0 +1,9 @@
+批改人：胡蓓慧
+得分：（45/50）
+建议：pdf版除了贴代码和图片以外可以加上文字描述，题目要求的分析也是需要作答的。
+第1题：
+1.2 [10 points] Compute the total number of earthquakes with magnitude larger than 6.0 (use column Mag as the magnitude) worldwide each year, and then plot the time series. Do you observe any trend? Explain why or why not?
+没有写观察到的趋势及解释（-2分）
+2. [10 points] Plot monthly averaged wind speed as a function of the observation time. Is there a trend in monthly averaged wind speed from 2010 to 2020?
+没有分析趋势（-3）
+
