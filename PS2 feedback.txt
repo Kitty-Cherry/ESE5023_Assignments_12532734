@@ -1,6 +1,6 @@
 批改人：胡蓓慧
 学生：朱骊冰（12532734）
-得分：（44/50）
+得分：（43/50）
 扣分点：
 1.2 [10 points] Compute the total number of earthquakes with magnitude larger than 6.0 (use column Mag as the magnitude) worldwide each year, and then plot the time series. Do you observe any trend? Explain why or why not?
 绘图没有基于Mag>6的数据进行绘图（-1分），错误代码如下：
@@ -12,6 +12,8 @@
 
 没有写观察到的趋势及解释（-2分）“Do you observe any trend? Explain why or why not?”
 
+1.3 输出结果没有根据total字段降序排列（-1分）
 2. [10 points] Plot monthly averaged wind speed as a function of the observation time. Is there a trend in monthly averaged wind speed from 2010 to 2020?
+speed =9999表示缺测，而不是大于999.
 没有分析趋势（-3）“Is there a trend in monthly averaged wind speed from 2010 to 2020?”
 
